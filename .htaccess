@@ -1,0 +1,8 @@
+ExpiresActive On
+ExpiresByType text/javascript A2
+ExpiresByType text/html A2
+
+
+
+#order allow,deny
+#deny from all
